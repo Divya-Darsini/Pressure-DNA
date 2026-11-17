@@ -1,0 +1,12 @@
+player_id,player_name,match_format,phase,pressure_matches,normal_matches,pressure_exposure,normal_exposure,pressure_wickets_per_24,normal_wickets_per_24,wicket_impact,rank,impact_score,positive_match_phase_pct,total_pressure_exposure,distinct_pressure_matches,final_score,contributes_to_ranked_impact,exclusion_reason
+34485,Sufiyan Muqeem,T20I,Death,9,2,63,7,1.5238095238095237,3.4285714285714284,-1.9047619047619047,1,1.800858712481006,66.66666666666666,101.0,9,2.944016705808429,False, | Insufficient normal exposure
+20704,Salman Mirza,T20I,Middle,1,1,6,6,0.0,0.0,0.0,3,0.8740715981241015,72.22222222222221,148.0,13,2.3649787384261867,False,Insufficient pressure exposure | Insufficient normal exposure
+1389,Sean Abbott,IPL,Death,0,1,0,6,,0.0,,4,0.8355447463586754,56.25,217.0,17,1.95655728778023,False,Insufficient pressure exposure | Insufficient normal exposure
+1389,Sean Abbott,IPL,Middle,0,1,0,6,,0.0,,4,0.8355447463586754,56.25,217.0,17,1.95655728778023,False,Insufficient pressure exposure | Insufficient normal exposure
+1389,Sean Abbott,IPL,Powerplay,1,1,4,8,0.0,3.0,-3.0,4,0.8355447463586754,56.25,217.0,17,1.95655728778023,False,Insufficient pressure exposure | Insufficient normal exposure
+403,Umesh Yadav,T20I,Middle,0,2,0,18,,2.6666666666666665,,7,0.8685465074834317,46.666666666666664,107.0,11,1.7458542747503585,False,Insufficient pressure exposure
+403,Umesh Yadav,T20I,Powerplay,0,2,0,12,,2.0,,7,0.8685465074834317,46.666666666666664,107.0,11,1.7458542747503585,False,Insufficient pressure exposure
+36982,Suyash Sharma,IPL,Powerplay,1,2,2,16,0.0,4.5,-4.5,8,0.7424826613296637,48.38709677419355,283.0,24,1.5843914043428156,False,Insufficient pressure exposure
+395,Karn Sharma,IPL,Death,5,1,30,6,2.4000000000000004,4.0,-1.5999999999999996,9,0.6382936347407361,53.84615384615385,162.0,13,1.562770326552898,False, | Insufficient normal exposure
+3644,Kuldeep Yadav,IPL,Powerplay,0,1,0,6,,0.0,,10,0.756573475374663,44.11764705882353,580.0,52,1.4895068254025625,False,Insufficient pressure exposure | Insufficient normal exposure
+3644,Kuldeep Yadav,T20I,Powerplay,0,2,0,12,,0.0,,10,0.756573475374663,44.11764705882353,580.0,52,1.4895068254025625,False,Insufficient pressure exposure
